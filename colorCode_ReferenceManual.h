@@ -1,0 +1,1 @@
+extern void colorcode_ReferenceManual_Display(void);
